@@ -25,3 +25,9 @@ async function main() {
 }
 
 main();
+
+
+///prints
+//Private Key:
+//Public Key:
+//Wallet address:
